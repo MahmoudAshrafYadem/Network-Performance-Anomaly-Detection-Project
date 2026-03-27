@@ -1,0 +1,14 @@
+{
+  "total_records": 8086,
+  "total_regions": 13,
+  "total_carriers": 3,
+  "date_range_start": "2026-03-01",
+  "date_range_end": "2026-03-21",
+  "iso_anomalies": 405,
+  "ocsvm_anomalies": 407,
+  "ae_anomalies": 405,
+  "high_confidence_anomalies": 349,
+  "mean_download_mbps": 152.16521357902548,
+  "mean_upload_mbps": 19.926923447934705,
+  "mean_latency_ms": 36.71333168439278
+}
