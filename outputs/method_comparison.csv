@@ -1,0 +1,5 @@
+Metric,Isolation Forest,One-Class SVM,Autoencoder (PyTorch)
+Total Anomalies,405,405,405
+Anomaly Rate (%),5.01,5.01,5.01
+True Positives (Agreed by 3),172,172,172
+Potential False Positives (Single Method),138,78,127
